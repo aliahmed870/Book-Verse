@@ -1,0 +1,87 @@
+[
+  {
+    "_id": "69388a4667e16d73e9110ef1",
+    "name": "Classic Literature",
+    "slug": "classic-literature"
+  },
+  {
+    "_id": "69388a4667e16d73e9110ef2",
+    "name": "Fiction",
+    "slug": "fiction"
+  },
+  {
+    "_id": "69388a4667e16d73e9110ef3",
+    "name": "Coming-of-Age",
+    "slug": "coming-of-age"
+  },
+  {
+    "_id": "69388a4667e16d73e9110ef4",
+    "name": "Dystopian",
+    "slug": "dystopian"
+  },
+  {
+    "_id": "69388a4667e16d73e9110ef5",
+    "name": "Science Fiction",
+    "slug": "science-fiction"
+  },
+  {
+    "_id": "69388a4667e16d73e9110eff",
+    "name": "Fantasy",
+    "slug": "fantasy"
+  },
+  {
+    "_id": "69388a4667e16d73e9110f00",
+    "name": "Political Fiction",
+    "slug": "political-fiction"
+  },
+  {
+    "_id": "69388a4667e16d73e9110f03",
+    "name": "Children's Literature",
+    "slug": "childrens-literature"
+  },
+  {
+    "_id": "69388a4667e16d73e9110efb",
+    "name": "Historical Fiction",
+    "slug": "historical-fiction"
+  },
+  {
+    "_id": "69388a4667e16d73e9110efa",
+    "name": "Romance",
+    "slug": "romance"
+  },
+  {
+    "_id": "69388a4667e16d73e9110efc",
+    "name": "Adventure",
+    "slug": "adventure"
+  },
+  {
+    "_id": "69388a4667e16d73e9110efd",
+    "name": "Gothic",
+    "slug": "gothic"
+  },
+  {
+    "_id": "69388a4667e16d73e9110efe",
+    "name": "Satire",
+    "slug": "satire"
+  },
+  {
+    "_id": "69388a4667e16d73e9110f06",
+    "name": "Mystery",
+    "slug": "mystery"
+  },
+  {
+    "_id": "69388a4667e16d73e9110f07",
+    "name": "Thriller",
+    "slug": "thriller"
+  },
+  {
+    "_id": "69388a4667e16d73e9110ef8",
+    "name": "Historical Drama",
+    "slug": "historical-drama"
+  },
+  {
+    "_id": "69388a4667e16d73e9110ef9",
+    "name": "Contemporary",
+    "slug": "contemporary"
+  }
+]

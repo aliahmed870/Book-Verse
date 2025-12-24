@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Harper Lee",
+    "bio": "American novelist best known for her 1960 novel To Kill a Mockingbird."
+  },
+  {
+    "name": "George Orwell",
+    "bio": "English novelist, essayist, journalist and critic, famous for Animal Farm and 1984."
+  },
+  {
+    "name": "J.K. Rowling",
+    "bio": "British author and philanthropist, best known for writing the Harry Potter fantasy series."
+  },
+  {
+    "name": "F. Scott Fitzgerald",
+    "bio": "American novelist, essayist, and short story writer, best known for The Great Gatsby."
+  },
+  {
+    "name": "Jane Austen",
+    "bio": "English novelist known primarily for her six major novels, which interpret, critique and comment upon the British landed gentry."
+  },
+  {
+    "name": "J.D. Salinger",
+    "bio": "American writer best known for his novel The Catcher in the Rye."
+  },
+  {
+    "name": "J.R.R. Tolkien",
+    "bio": "English writer, poet, philologist, and academic, best known as the author of the high fantasy works The Hobbit and The Lord of the Rings."
+  },
+  {
+    "name": "Ray Bradbury",
+    "bio": "American author and screenwriter, famous for Fahrenheit 451."
+  },
+  {
+    "name": "Charlotte Brontë",
+    "bio": "English novelist and poet, the eldest of the three Brontë sisters, best known for Jane Eyre."
+  },
+  {
+    "name": "Herman Melville",
+    "bio": "American novelist, short story writer, and poet of the American Renaissance period, best known for Moby-Dick."
+  },
+  {
+    "name": "Paulo Coelho",
+    "bio": "Brazilian lyricist and novelist, best known for his novel The Alchemist."
+  },
+  {
+    "name": "Fyodor Dostoevsky",
+    "bio": "Russian novelist, philosopher, short story writer, essayist, and journalist."
+  },
+  {
+    "name": "Antoine de Saint-Exupéry",
+    "bio": "French writer, poet, aristocrat, journalist and pioneering aviator."
+  },
+  {
+    "name": "Aldous Huxley",
+    "bio": "English writer and philosopher, best known for his dystopian novel Brave New World."
+  },
+  {
+    "name": "Gabriel García Márquez",
+    "bio": "Colombian novelist, short-story writer, screenwriter, and journalist."
+  },
+  {
+    "name": "Dan Brown",
+    "bio": "American author best known for his thriller novels, including the Robert Langdon stories."
+  },
+  {
+    "name": "Khaled Hosseini",
+    "bio": "Afghan-American novelist, physician, and activist, known for The Kite Runner."
+  },
+  {
+    "name": "Mary Shelley",
+    "bio": "English novelist who wrote the Gothic novel Frankenstein."
+  }
+]

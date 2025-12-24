@@ -1,0 +1,294 @@
+[
+  {
+    "title": "To Kill a Mockingbird",
+    "author": "69388a4667e16d73e9110eed",
+    "publishedYear": 1960,
+    "category": [
+      "69388a4667e16d73e9110ef1",
+      "69388a4667e16d73e9110ef2",
+      "69388a4667e16d73e9110ef3"
+    ],
+    "price": 18.99,
+    "isAvailable": true,
+    "coverImage": "To_Kill_a_Mockingbird.jpg",
+    "description": "A classic novel of a lawyer who defends a black man accused of raping a white woman in the 1930s Alabama.",
+    "ratingAverage": 4,
+    "ratingQuantity": 4
+  },
+  {
+    "title": "1984",
+    "author": "69388a4667e16d73e9110ece",
+    "publishedYear": 1949,
+    "category": [
+      "69388a4667e16d73e9110ef4",
+      "69388a4667e16d73e9110ef5",
+      "69388a4667e16d73e9110f00"
+    ],
+    "price": 15.5,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "A dystopian novel set in a totalitarian society where the government has complete control over its citizens.",
+    "ratingAverage": 4,
+    "ratingQuantity": 4
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "69388a4667e16d73e9110ecf",
+    "publishedYear": 1997,
+    "category": [
+      "69388a4667e16d73e9110eff",
+      "69388a4667e16d73e9110ef2",
+      "69388a4667e16d73e9110f03"
+    ],
+    "price": 24.99,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "The first novel in the Harry Potter series, following a young wizard's journey at Hogwarts School of Witchcraft and Wizardry.",
+    "ratingAverage": 4,
+    "ratingQuantity": 4
+  },
+  {
+    "title": "The Great Gatsby",
+    "author": "69388a4667e16d73e9110ed0",
+    "publishedYear": 1925,
+    "category": [
+      "69388a4667e16d73e9110ef1",
+      "69388a4667e16d73e9110ef2",
+      "69388a4667e16d73e9110efb"
+    ],
+    "price": 12.99,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "A novel about the American dream and the excess of the 1920s, set on Long Island.",
+    "ratingAverage": 4,
+    "ratingQuantity": 4
+  },
+  {
+    "title": "Pride and Prejudice",
+    "author": "69388a4667e16d73e9110ed1",
+    "publishedYear": 1813,
+    "category": [
+      "69388a4667e16d73e9110ef1",
+      "69388a4667e16d73e9110efa",
+      "69388a4667e16d73e9110ef2"
+    ],
+    "price": 10.5,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "A classic romance novel that explores themes of love, class, and social manners in early 19th-century England.",
+    "ratingAverage": 4,
+    "ratingQuantity": 4
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "author": "69388a4667e16d73e9110ed2",
+    "publishedYear": 1951,
+    "category": ["69388a4667e16d73e9110ef1", "69388a4667e16d73e9110ef2"],
+    "price": 14.0,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "A novel about teenage angst and alienation, narrated by the cynical Holden Caulfield.",
+    "ratingAverage": 4,
+    "ratingQuantity": 4
+  },
+  {
+    "title": "The Hobbit",
+    "author": "69388a4667e16d73e9110ed3",
+    "publishedYear": 1937,
+    "category": [
+      "69388a4667e16d73e9110eff",
+      "69388a4667e16d73e9110ef1",
+      "69388a4667e16d73e9110efc"
+    ],
+    "price": 16.99,
+    "isAvailable": false,
+    "coverImage": "default-book-cover.jpg",
+    "description": "A fantasy novel about the quest of hobbit Bilbo Baggins to win a share of the treasure guarded by the dragon Smaug.",
+    "ratingAverage": 4,
+    "ratingQuantity": 4
+  },
+  {
+    "title": "Fahrenheit 451",
+    "author": "69388a4667e16d73e9110ed4",
+    "publishedYear": 1953,
+    "category": ["69388a4667e16d73e9110ef4", "69388a4667e16d73e9110ef5"],
+    "price": 13.5,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "A dystopian novel about a future American society where books are banned and 'firemen' burn any that are found.",
+    "ratingAverage": 4,
+    "ratingQuantity": 4
+  },
+  {
+    "title": "Jane Eyre",
+    "author": "69388a4667e16d73e9110ed5",
+    "publishedYear": 1847,
+    "category": [
+      "69388a4667e16d73e9110ef1",
+      "69388a4667e16d73e9110efa",
+      "69388a4667e16d73e9110efd"
+    ],
+    "price": 11.99,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "A novel following the experiences of its titular heroine, including her growth to adulthood and her love for Mr. Rochester.",
+    "ratingAverage": 4,
+    "ratingQuantity": 4
+  },
+  {
+    "title": "Animal Farm",
+    "author": "69388a4667e16d73e9110ece",
+    "publishedYear": 1945,
+    "category": [
+      "69388a4667e16d73e9110efe",
+      "69388a4667e16d73e9110f00",
+      "69388a4667e16d73e9110ef1"
+    ],
+    "price": 9.99,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "An allegorical novella reflecting events leading up to the Russian Revolution and then on into the Stalinist era of the Soviet Union.",
+    "ratingAverage": 0,
+    "ratingQuantity": 0
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "author": "69388a4667e16d73e9110ed3",
+    "publishedYear": 1954,
+    "category": [
+      "69388a4667e16d73e9110eff",
+      "69388a4667e16d73e9110efc",
+      "69388a4667e16d73e9110ef1"
+    ],
+    "price": 29.99,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "The first volume of The Lord of the Rings, following the quest to destroy the One Ring.",
+    "ratingAverage": 4,
+    "ratingQuantity": 4
+  },
+  {
+    "title": "Moby Dick",
+    "author": "69388a4667e16d73e9110ed6",
+    "publishedYear": 1851,
+    "category": [
+      "69388a4667e16d73e9110ef1",
+      "69388a4667e16d73e9110efc",
+      "69388a4667e16d73e9110ef2"
+    ],
+    "price": 15.0,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "The narrative of Captain Ahab's obsessive quest to seek revenge on Moby Dick, the giant white sperm whale.",
+    "ratingAverage": 4,
+    "ratingQuantity": 4
+  },
+  {
+    "title": "The Alchemist",
+    "author": "69388a4667e16d73e9110ef7",
+    "publishedYear": 1988,
+    "category": ["69388a4667e16d73e9110ef2"],
+    "price": 17.5,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "A novel that follows the journey of an Andalusian shepherd boy named Santiago.",
+    "ratingAverage": 4,
+    "ratingQuantity": 4
+  },
+  {
+    "title": "Crime and Punishment",
+    "author": "69388a4667e16d73e9110ed8",
+    "publishedYear": 1866,
+    "category": ["69388a4667e16d73e9110ef1"],
+    "price": 19.99,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "A novel about the mental anguish and moral dilemmas of Rodion Raskolnikov, an impoverished ex-student in St. Petersburg.",
+    "ratingAverage": 0,
+    "ratingQuantity": 0
+  },
+  {
+    "title": "The Little Prince",
+    "author": "69388a4667e16d73e9110ed9",
+    "publishedYear": 1943,
+    "category": ["69388a4667e16d73e9110ef1", "69388a4667e16d73e9110f03"],
+    "price": 12.5,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "A poetic tale, with watercolor illustrations by the author, in which a pilot stranded in the desert meets a young prince.",
+    "ratingAverage": 4,
+    "ratingQuantity": 4
+  },
+  {
+    "title": "Brave New World",
+    "author": "69388a4667e16d73e9110eda",
+    "publishedYear": 1932,
+    "category": [
+      "69388a4667e16d73e9110ef4",
+      "69388a4667e16d73e9110ef5",
+      "69388a4667e16d73e9110ef1"
+    ],
+    "price": 16.0,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "A dystopian novel set in a futuristic World State, where citizens are engineered into an intelligence-based social hierarchy.",
+    "ratingAverage": 0,
+    "ratingQuantity": 0
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "69388a4667e16d73e9110edb",
+    "publishedYear": 1967,
+    "category": ["69388a4667e16d73e9110ef4", "69388a4667e16d73e9110ef1"],
+    "price": 21.0,
+    "isAvailable": false,
+    "coverImage": "default-book-cover.jpg",
+    "description": "The multi-generational story of the Buendía family, whose patriarch, José Arcadio Buendía, founded the fictional town of Macondo.",
+    "ratingAverage": 4,
+    "ratingQuantity": 4
+  },
+  {
+    "title": "The Da Vinci Code",
+    "author": "69388a4667e16d73e9110edc",
+    "publishedYear": 2003,
+    "category": [
+      "69388a4667e16d73e9110f06",
+      "69388a4667e16d73e9110f07",
+      "69388a4667e16d73e9110ef2"
+    ],
+    "price": 18.5,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "A mystery thriller novel that follows symbologist Robert Langdon and cryptologist Sophie Neveu.",
+    "ratingAverage": 0,
+    "ratingQuantity": 0
+  },
+  {
+    "title": "The Kite Runner",
+    "author": "69388a4667e16d73e9110edd",
+    "publishedYear": 2003,
+    "category": ["69388a4667e16d73e9110ef8", "69388a4667e16d73e9110ef9"],
+    "price": 15.99,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "A story of friendship between a wealthy boy and the son of his father's servant, set in Afghanistan.",
+    "ratingAverage": 4,
+    "ratingQuantity": 4
+  },
+  {
+    "title": "Frankenstein",
+    "author": "69388a4667e16d73e9110ede",
+    "publishedYear": 1818,
+    "category": [
+      "69388a4667e16d73e9110efd",
+      "69388a4667e16d73e9110ef5",
+      "69388a4667e16d73e9110efa"
+    ],
+    "price": 11.5,
+    "isAvailable": true,
+    "coverImage": "default-book-cover.jpg",
+    "description": "A novel about a young scientist, Victor Frankenstein, who creates a sapient creature in an unorthodox scientific experiment.",
+    "ratingAverage": 4,
+    "ratingQuantity": 4
+  }
+]
