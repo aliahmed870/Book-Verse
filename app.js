@@ -16,6 +16,7 @@ const reviewsRouter = require('./routes/reviewsRoutes');
 const authorsRouter = require('./routes/authorRoutes');
 const categoriesRouter = require('./routes/categoryRoutes');
 
+// Start express app
 const app = express();
 
 app.set('query parser', 'extended');
